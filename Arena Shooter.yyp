@@ -9,6 +9,7 @@
     {"id":{"name":"spr_enemy_fragment","path":"sprites/spr_enemy_fragment/spr_enemy_fragment.yy",},"order":11,},
     {"id":{"name":"spr_enemy_splatter","path":"sprites/spr_enemy_splatter/spr_enemy_splatter.yy",},"order":13,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":15,},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"spr_tileset","path":"sprites/spr_tileset/spr_tileset.yy",},"order":17,},
     {"id":{"name":"spr_title","path":"sprites/spr_title/spr_title.yy",},"order":19,},
     {"id":{"name":"spr_weapon","path":"sprites/spr_weapon/spr_weapon.yy",},"order":21,},
