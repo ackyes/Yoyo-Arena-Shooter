@@ -1,1 +1,4 @@
-shake = 0 //change this value during the game (such as during enemy destroy event) to cause screenshake.
+shake = false;
+shake_time = 0;
+shake_magnitude = 0;
+shake_fade = 0.25;
