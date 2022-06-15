@@ -29,7 +29,7 @@
     {"id":{"name":"obj_splatter","path":"objects/obj_splatter/obj_splatter.yy",},"order":19,},
     {"id":{"name":"obj_par_decal","path":"objects/obj_par_decal/obj_par_decal.yy",},"order":22,},
     {"id":{"name":"obj_weapon","path":"objects/obj_weapon/obj_weapon.yy",},"order":21,},
-    {"id":{"name":"default","path":"rooms/default/default.yy",},"order":1,},
+    {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":1,},
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},"order":3,},
   ],
   "Options": [
@@ -44,7 +44,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"default","path":"rooms/default/default.yy",},},
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
   ],
   "Folders": [
