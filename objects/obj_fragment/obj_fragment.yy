@@ -8,8 +8,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_part_decal",
-    "path": "objects/obj_part_decal/obj_part_decal.yy",
+    "name": "obj_par_decal",
+    "path": "objects/obj_par_decal/obj_par_decal.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
